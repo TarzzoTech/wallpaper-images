@@ -1,0 +1,667 @@
+[
+  {
+    "id": 0,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-1.jpeg"
+  },
+  {
+    "id": 1,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-2.jpeg"
+  },
+  {
+    "id": 2,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-3.jpeg"
+  },
+  {
+    "id": 3,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-4.jpeg"
+  },
+  {
+    "id": 4,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-5.jpeg"
+  },
+  {
+    "id": 5,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-6.jpeg"
+  },
+  {
+    "id": 6,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-7.jpeg"
+  },
+  {
+    "id": 7,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-8.jpeg"
+  },
+  {
+    "id": 8,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-9.jpeg"
+  },
+  {
+    "id": 9,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-10.jpeg"
+  },
+  {
+    "id": 10,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-11.jpeg"
+  },
+  {
+    "id": 11,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-12.jpeg"
+  },
+  {
+    "id": 12,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-13.jpeg"
+  },
+  {
+    "id": 13,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-14.jpeg"
+  },
+  {
+    "id": 14,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-15.jpeg"
+  },
+  {
+    "id": 15,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-16.jpeg"
+  },
+  {
+    "id": 16,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-17.jpeg"
+  },
+  {
+    "id": 17,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-18.jpeg"
+  },
+  {
+    "id": 18,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-19.jpeg"
+  },
+  {
+    "id": 19,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-20.jpeg"
+  },
+  {
+    "id": 20,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-21.jpeg"
+  },
+  {
+    "id": 21,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-22.jpeg"
+  },
+  {
+    "id": 22,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-23.jpeg"
+  },
+  {
+    "id": 23,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-24.jpeg"
+  },
+  {
+    "id": 24,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-25.jpeg"
+  },
+  {
+    "id": 25,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-26.jpeg"
+  },
+  {
+    "id": 26,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-27.jpeg"
+  },
+  {
+    "id": 27,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-28.jpeg"
+  },
+  {
+    "id": 28,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-29.jpeg"
+  },
+  {
+    "id": 29,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-30.jpeg"
+  },
+  {
+    "id": 30,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-31.jpeg"
+  },
+  {
+    "id": 31,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-32.jpeg"
+  },
+  {
+    "id": 32,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-33.jpeg"
+  },
+  {
+    "id": 33,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-34.jpeg"
+  },
+  {
+    "id": 34,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-35.jpeg"
+  },
+  {
+    "id": 35,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-36.jpeg"
+  },
+  {
+    "id": 36,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-37.jpeg"
+  },
+  {
+    "id": 37,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-38.jpeg"
+  },
+  {
+    "id": 38,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-39.jpeg"
+  },
+  {
+    "id": 39,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-40.jpeg"
+  },
+  {
+    "id": 40,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-41.jpeg"
+  },
+  {
+    "id": 41,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-42.jpeg"
+  },
+  {
+    "id": 42,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-43.jpeg"
+  },
+  {
+    "id": 43,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-44.jpeg"
+  },
+  {
+    "id": 44,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-45.jpeg"
+  },
+  {
+    "id": 45,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-46.jpeg"
+  },
+  {
+    "id": 46,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-47.jpeg"
+  },
+  {
+    "id": 47,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-48.jpeg"
+  },
+  {
+    "id": 48,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-49.jpeg"
+  },
+  {
+    "id": 49,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-50.jpeg"
+  },
+  {
+    "id": 50,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-51.jpeg"
+  },
+  {
+    "id": 51,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-52.jpeg"
+  },
+  {
+    "id": 52,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-53.jpeg"
+  },
+  {
+    "id": 53,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-54.jpeg"
+  },
+  {
+    "id": 54,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-55.jpeg"
+  },
+  {
+    "id": 55,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-56.jpeg"
+  },
+  {
+    "id": 56,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-57.jpeg"
+  },
+  {
+    "id": 57,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-58.jpeg"
+  },
+  {
+    "id": 58,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-59.jpeg"
+  },
+  {
+    "id": 59,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-60.jpeg"
+  },
+  {
+    "id": 60,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-61.jpeg"
+  },
+  {
+    "id": 61,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-62.jpeg"
+  },
+  {
+    "id": 62,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-63.jpeg"
+  },
+  {
+    "id": 63,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-64.jpeg"
+  },
+  {
+    "id": 64,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-65.jpeg"
+  },
+  {
+    "id": 65,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-66.jpeg"
+  },
+  {
+    "id": 66,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-67.jpeg"
+  },
+  {
+    "id": 67,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-68.jpeg"
+  },
+  {
+    "id": 68,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-69.jpeg"
+  },
+  {
+    "id": 69,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-70.jpeg"
+  },
+  {
+    "id": 70,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-71.jpeg"
+  },
+  {
+    "id": 71,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-72.jpeg"
+  },
+  {
+    "id": 72,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-73.jpeg"
+  },
+  {
+    "id": 73,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-74.jpeg"
+  },
+  {
+    "id": 74,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-75.jpeg"
+  },
+  {
+    "id": 75,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-76.jpeg"
+  },
+  {
+    "id": 76,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-77.jpeg"
+  },
+  {
+    "id": 77,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-78.jpeg"
+  },
+  {
+    "id": 78,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-79.jpeg"
+  },
+  {
+    "id": 79,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-80.jpeg"
+  },
+  {
+    "id": 80,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-81.jpeg"
+  },
+  {
+    "id": 81,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-82.jpeg"
+  },
+  {
+    "id": 82,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-83.jpeg"
+  },
+  {
+    "id": 83,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-84.jpeg"
+  },
+  {
+    "id": 84,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-85.jpeg"
+  },
+  {
+    "id": 85,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-86.jpeg"
+  },
+  {
+    "id": 86,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-87.jpeg"
+  },
+  {
+    "id": 87,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-88.jpeg"
+  },
+  {
+    "id": 88,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-89.jpeg"
+  },
+  {
+    "id": 89,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-90.jpeg"
+  },
+  {
+    "id": 90,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-91.jpeg"
+  },
+  {
+    "id": 91,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-92.jpeg"
+  },
+  {
+    "id": 92,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-93.jpeg"
+  },
+  {
+    "id": 93,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-94.jpeg"
+  },
+  {
+    "id": 94,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-95.jpeg"
+  },
+  {
+    "id": 95,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-96.jpeg"
+  },
+  {
+    "id": 96,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-97.jpeg"
+  },
+  {
+    "id": 97,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-98.jpeg"
+  },
+  {
+    "id": 98,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-99.jpeg"
+  },
+  {
+    "id": 99,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-100.jpeg"
+  },
+  {
+    "id": 100,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-101.jpeg"
+  },
+  {
+    "id": 101,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-102.jpeg"
+  },
+  {
+    "id": 102,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-103.jpeg"
+  },
+  {
+    "id": 103,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-104.jpeg"
+  },
+  {
+    "id": 104,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-105.jpeg"
+  },
+  {
+    "id": 105,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-106.jpeg"
+  },
+  {
+    "id": 106,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-107.jpeg"
+  },
+  {
+    "id": 107,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-108.jpeg"
+  },
+  {
+    "id": 108,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-109.jpeg"
+  },
+  {
+    "id": 109,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-110.jpeg"
+  },
+  {
+    "id": 110,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-111.jpeg"
+  },
+  {
+    "id": 111,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-112.jpeg"
+  },
+  {
+    "id": 112,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-113.jpeg"
+  },
+  {
+    "id": 113,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-114.jpeg"
+  },
+  {
+    "id": 114,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-115.jpeg"
+  },
+  {
+    "id": 115,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-116.jpeg"
+  },
+  {
+    "id": 116,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-117.jpeg"
+  },
+  {
+    "id": 117,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-118.jpeg"
+  },
+  {
+    "id": 118,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-119.jpeg"
+  },
+  {
+    "id": 119,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-120.jpeg"
+  },
+  {
+    "id": 120,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-121.jpeg"
+  },
+  {
+    "id": 121,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-122.jpeg"
+  },
+  {
+    "id": 122,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-123.jpeg"
+  },
+  {
+    "id": 123,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-124.jpeg"
+  },
+  {
+    "id": 124,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-125.jpeg"
+  },
+  {
+    "id": 125,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-126.jpeg"
+  },
+  {
+    "id": 126,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-127.jpeg"
+  },
+  {
+    "id": 127,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-128.jpeg"
+  },
+  {
+    "id": 128,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-129.jpeg"
+  },
+  {
+    "id": 129,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-130.jpeg"
+  },
+  {
+    "id": 130,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-131.jpeg"
+  },
+  {
+    "id": 131,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-132.jpeg"
+  },
+  {
+    "id": 132,
+    "type": "street-art",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/street-art/street-art-133.jpeg"
+  }
+]

@@ -1,0 +1,917 @@
+[
+  {
+    "id": 0,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-1.jpeg"
+  },
+  {
+    "id": 1,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-2.jpeg"
+  },
+  {
+    "id": 2,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-3.jpeg"
+  },
+  {
+    "id": 3,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-4.jpeg"
+  },
+  {
+    "id": 4,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-5.jpeg"
+  },
+  {
+    "id": 5,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-6.jpeg"
+  },
+  {
+    "id": 6,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-7.jpeg"
+  },
+  {
+    "id": 7,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-8.jpeg"
+  },
+  {
+    "id": 8,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-9.jpeg"
+  },
+  {
+    "id": 9,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-10.jpeg"
+  },
+  {
+    "id": 10,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-11.jpeg"
+  },
+  {
+    "id": 11,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-12.jpeg"
+  },
+  {
+    "id": 12,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-13.jpeg"
+  },
+  {
+    "id": 13,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-14.jpeg"
+  },
+  {
+    "id": 14,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-15.jpeg"
+  },
+  {
+    "id": 15,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-16.jpeg"
+  },
+  {
+    "id": 16,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-17.jpeg"
+  },
+  {
+    "id": 17,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-18.jpeg"
+  },
+  {
+    "id": 18,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-19.jpeg"
+  },
+  {
+    "id": 19,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-20.jpeg"
+  },
+  {
+    "id": 20,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-21.jpeg"
+  },
+  {
+    "id": 21,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-22.jpeg"
+  },
+  {
+    "id": 22,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-23.jpeg"
+  },
+  {
+    "id": 23,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-24.jpeg"
+  },
+  {
+    "id": 24,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-25.jpeg"
+  },
+  {
+    "id": 25,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-26.jpeg"
+  },
+  {
+    "id": 26,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-27.jpeg"
+  },
+  {
+    "id": 27,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-28.jpeg"
+  },
+  {
+    "id": 28,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-29.jpeg"
+  },
+  {
+    "id": 29,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-30.jpeg"
+  },
+  {
+    "id": 30,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-31.jpeg"
+  },
+  {
+    "id": 31,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-32.jpeg"
+  },
+  {
+    "id": 32,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-33.jpeg"
+  },
+  {
+    "id": 33,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-34.jpeg"
+  },
+  {
+    "id": 34,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-35.jpeg"
+  },
+  {
+    "id": 35,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-36.jpeg"
+  },
+  {
+    "id": 36,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-37.jpeg"
+  },
+  {
+    "id": 37,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-38.jpeg"
+  },
+  {
+    "id": 38,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-39.jpeg"
+  },
+  {
+    "id": 39,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-40.jpeg"
+  },
+  {
+    "id": 40,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-41.jpeg"
+  },
+  {
+    "id": 41,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-42.jpeg"
+  },
+  {
+    "id": 42,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-43.jpeg"
+  },
+  {
+    "id": 43,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-44.jpeg"
+  },
+  {
+    "id": 44,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-45.jpeg"
+  },
+  {
+    "id": 45,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-46.jpeg"
+  },
+  {
+    "id": 46,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-47.jpeg"
+  },
+  {
+    "id": 47,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-48.jpeg"
+  },
+  {
+    "id": 48,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-49.jpeg"
+  },
+  {
+    "id": 49,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-50.jpeg"
+  },
+  {
+    "id": 50,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-51.jpeg"
+  },
+  {
+    "id": 51,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-52.jpeg"
+  },
+  {
+    "id": 52,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-53.jpeg"
+  },
+  {
+    "id": 53,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-54.jpeg"
+  },
+  {
+    "id": 54,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-55.jpeg"
+  },
+  {
+    "id": 55,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-56.jpeg"
+  },
+  {
+    "id": 56,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-57.jpeg"
+  },
+  {
+    "id": 57,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-58.jpeg"
+  },
+  {
+    "id": 58,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-59.jpeg"
+  },
+  {
+    "id": 59,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-60.jpeg"
+  },
+  {
+    "id": 60,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-61.jpeg"
+  },
+  {
+    "id": 61,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-62.jpeg"
+  },
+  {
+    "id": 62,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-63.jpeg"
+  },
+  {
+    "id": 63,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-64.jpeg"
+  },
+  {
+    "id": 64,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-65.jpeg"
+  },
+  {
+    "id": 65,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-66.jpeg"
+  },
+  {
+    "id": 66,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-67.jpeg"
+  },
+  {
+    "id": 67,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-68.jpeg"
+  },
+  {
+    "id": 68,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-69.jpeg"
+  },
+  {
+    "id": 69,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-70.jpeg"
+  },
+  {
+    "id": 70,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-71.jpeg"
+  },
+  {
+    "id": 71,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-72.jpeg"
+  },
+  {
+    "id": 72,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-73.jpeg"
+  },
+  {
+    "id": 73,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-74.jpeg"
+  },
+  {
+    "id": 74,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-75.jpeg"
+  },
+  {
+    "id": 75,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-76.jpeg"
+  },
+  {
+    "id": 76,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-77.jpeg"
+  },
+  {
+    "id": 77,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-78.jpeg"
+  },
+  {
+    "id": 78,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-79.jpeg"
+  },
+  {
+    "id": 79,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-80.jpeg"
+  },
+  {
+    "id": 80,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-81.jpeg"
+  },
+  {
+    "id": 81,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-82.jpeg"
+  },
+  {
+    "id": 82,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-83.jpeg"
+  },
+  {
+    "id": 83,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-84.jpeg"
+  },
+  {
+    "id": 84,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-85.jpeg"
+  },
+  {
+    "id": 85,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-86.jpeg"
+  },
+  {
+    "id": 86,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-87.jpeg"
+  },
+  {
+    "id": 87,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-88.jpeg"
+  },
+  {
+    "id": 88,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-89.jpeg"
+  },
+  {
+    "id": 89,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-90.jpeg"
+  },
+  {
+    "id": 90,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-91.jpeg"
+  },
+  {
+    "id": 91,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-92.jpeg"
+  },
+  {
+    "id": 92,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-93.jpeg"
+  },
+  {
+    "id": 93,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-94.jpeg"
+  },
+  {
+    "id": 94,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-95.jpeg"
+  },
+  {
+    "id": 95,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-96.jpeg"
+  },
+  {
+    "id": 96,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-97.jpeg"
+  },
+  {
+    "id": 97,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-98.jpeg"
+  },
+  {
+    "id": 98,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-99.jpeg"
+  },
+  {
+    "id": 99,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-100.jpeg"
+  },
+  {
+    "id": 100,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-101.jpeg"
+  },
+  {
+    "id": 101,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-102.jpeg"
+  },
+  {
+    "id": 102,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-103.jpeg"
+  },
+  {
+    "id": 103,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-104.jpeg"
+  },
+  {
+    "id": 104,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-105.jpeg"
+  },
+  {
+    "id": 105,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-106.jpeg"
+  },
+  {
+    "id": 106,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-107.jpeg"
+  },
+  {
+    "id": 107,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-108.jpeg"
+  },
+  {
+    "id": 108,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-109.jpeg"
+  },
+  {
+    "id": 109,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-110.jpeg"
+  },
+  {
+    "id": 110,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-111.jpeg"
+  },
+  {
+    "id": 111,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-112.jpeg"
+  },
+  {
+    "id": 112,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-113.jpeg"
+  },
+  {
+    "id": 113,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-114.jpeg"
+  },
+  {
+    "id": 114,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-115.jpeg"
+  },
+  {
+    "id": 115,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-116.jpeg"
+  },
+  {
+    "id": 116,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-117.jpeg"
+  },
+  {
+    "id": 117,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-118.jpeg"
+  },
+  {
+    "id": 118,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-119.jpeg"
+  },
+  {
+    "id": 119,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-120.jpeg"
+  },
+  {
+    "id": 120,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-121.jpeg"
+  },
+  {
+    "id": 121,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-122.jpeg"
+  },
+  {
+    "id": 122,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-123.jpeg"
+  },
+  {
+    "id": 123,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-124.jpeg"
+  },
+  {
+    "id": 124,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-125.jpeg"
+  },
+  {
+    "id": 125,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-126.jpeg"
+  },
+  {
+    "id": 126,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-127.jpeg"
+  },
+  {
+    "id": 127,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-128.jpeg"
+  },
+  {
+    "id": 128,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-129.jpeg"
+  },
+  {
+    "id": 129,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-130.jpeg"
+  },
+  {
+    "id": 130,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-131.jpeg"
+  },
+  {
+    "id": 131,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-132.jpeg"
+  },
+  {
+    "id": 132,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-133.jpeg"
+  },
+  {
+    "id": 133,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-134.jpeg"
+  },
+  {
+    "id": 134,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-135.jpeg"
+  },
+  {
+    "id": 135,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-136.jpeg"
+  },
+  {
+    "id": 136,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-137.jpeg"
+  },
+  {
+    "id": 137,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-138.jpeg"
+  },
+  {
+    "id": 138,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-139.jpeg"
+  },
+  {
+    "id": 139,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-140.jpeg"
+  },
+  {
+    "id": 140,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-141.jpeg"
+  },
+  {
+    "id": 141,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-142.jpeg"
+  },
+  {
+    "id": 142,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-143.jpeg"
+  },
+  {
+    "id": 143,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-144.jpeg"
+  },
+  {
+    "id": 144,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-145.jpeg"
+  },
+  {
+    "id": 145,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-146.jpeg"
+  },
+  {
+    "id": 146,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-147.jpeg"
+  },
+  {
+    "id": 147,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-148.jpeg"
+  },
+  {
+    "id": 148,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-149.jpeg"
+  },
+  {
+    "id": 149,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-150.jpeg"
+  },
+  {
+    "id": 150,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-151.jpeg"
+  },
+  {
+    "id": 151,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-152.jpeg"
+  },
+  {
+    "id": 152,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-153.jpeg"
+  },
+  {
+    "id": 153,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-154.jpeg"
+  },
+  {
+    "id": 154,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-155.jpeg"
+  },
+  {
+    "id": 155,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-156.jpeg"
+  },
+  {
+    "id": 156,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-157.jpeg"
+  },
+  {
+    "id": 157,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-158.jpeg"
+  },
+  {
+    "id": 158,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-159.jpeg"
+  },
+  {
+    "id": 159,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-160.jpeg"
+  },
+  {
+    "id": 160,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-161.jpeg"
+  },
+  {
+    "id": 161,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-162.jpeg"
+  },
+  {
+    "id": 162,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-163.jpeg"
+  },
+  {
+    "id": 163,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-164.jpeg"
+  },
+  {
+    "id": 164,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-165.jpeg"
+  },
+  {
+    "id": 165,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-166.jpeg"
+  },
+  {
+    "id": 166,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-167.jpeg"
+  },
+  {
+    "id": 167,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-168.jpeg"
+  },
+  {
+    "id": 168,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-169.jpeg"
+  },
+  {
+    "id": 169,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-170.jpeg"
+  },
+  {
+    "id": 170,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-171.jpeg"
+  },
+  {
+    "id": 171,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-172.jpeg"
+  },
+  {
+    "id": 172,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-173.jpeg"
+  },
+  {
+    "id": 173,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-174.jpeg"
+  },
+  {
+    "id": 174,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-175.jpeg"
+  },
+  {
+    "id": 175,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-176.jpeg"
+  },
+  {
+    "id": 176,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-177.jpeg"
+  },
+  {
+    "id": 177,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-178.jpeg"
+  },
+  {
+    "id": 178,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-179.jpeg"
+  },
+  {
+    "id": 179,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-180.jpeg"
+  },
+  {
+    "id": 180,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-181.jpeg"
+  },
+  {
+    "id": 181,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-182.jpeg"
+  },
+  {
+    "id": 182,
+    "type": "city",
+    "url": "https://raw.githubusercontent.com/TarzzoTech/wallpaper-images/v0.0.1/city/city-183.jpeg"
+  }
+]
